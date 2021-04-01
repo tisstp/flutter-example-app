@@ -37,6 +37,7 @@ Scope
 - `config`
 - `web-server`
 - `proxy`
+- `pattern`
 - `etc.`
 
 References:
