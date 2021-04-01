@@ -1,6 +1,4 @@
-# Project Setup
-
-## Git Design Pattern
+# Git Design Pattern
 
 Format of the commit message:
 ```text
